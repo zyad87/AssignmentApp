@@ -67,7 +67,7 @@ This is a **Single Page Application (SPA)** built using **Vue.js** for managing 
 ## **How to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zyad87/AssignmentApp.git
    cd vue-spa-task
    ```
 2. Install dependencies:
