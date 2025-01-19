@@ -1,6 +1,3 @@
-### README for Vue SPA Task
-
----
 
 ## 🌐 **Overview**
 This is a **Single Page Application (SPA)** built using **Vue.js** for managing a list of people. The application was developed as part of a coding task and goes beyond the basic requirements by including additional features to improve user experience and functionality.
